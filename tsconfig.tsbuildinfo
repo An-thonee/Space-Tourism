@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/navbar.tsx","./src/components/pagetitle.tsx","./src/pages/crew.tsx","./src/pages/destination.tsx","./src/pages/home.tsx","./src/pages/technology.tsx","./src/types/spacetourism.ts"],"errors":true,"version":"6.0.3"}
