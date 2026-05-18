@@ -20,7 +20,7 @@ function Home() {
 
       <Link
         to="/destination"
-        className="grid h-36 w-36 place-items-center rounded-full bg-white font-bellefair text-xl uppercase tracking-[1.25px] text-space-dark outline-0 outline-white/10 transition-all duration-300 hover:outline-44 md:h-60 md:w-60 md:text-3xl md:tracking-[2px] lg:h-68 lg:w-68"
+        className="grid h-36 w-36 place-items-center rounded-full bg-white font-bellefair text-xl uppercase tracking-[1.25px] text-space-dark outline-0 outline-white/10 transition-all duration-300 hover:outline-[44px] md:h-60 md:w-60 md:text-3xl md:tracking-[2px] lg:h-68 lg:w-68"
       >
         Explore
       </Link>
